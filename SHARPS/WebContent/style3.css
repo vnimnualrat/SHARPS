@@ -1,0 +1,23 @@
+.jumbotron{
+	background-color: #60A6BD !important;
+}
+
+h1 {
+	margin-bottom:0em;
+margin-top : 10px;
+padding-left : 15px;
+font-size : 50px;
+text-transform : uppercase;
+letter-spacing: 3px;
+color: black;
+}
+
+.splash {
+  height: 20em;
+  padding-top: 9em;
+  margin-bottom: 2em;
+  background-image: url("kitchencover2.jpg");
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
