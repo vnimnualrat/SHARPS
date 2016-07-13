@@ -1,2 +1,5 @@
 # SHARPS
-Smart Home
+Smart Home and Reliable Property System
+
+This is a Web Application project.
+
